@@ -1,0 +1,424 @@
+# Processing Report
+- Processed source files: **206**
+- Generated per-article summaries: **206**
+- Generated consolidated review: `combined_literature_review.md`
+
+## All Processed Files
+- `All_Articles_Merged.md`
+- `All_Articles_Merged_Light.md`
+- `All_Merged_PDFs.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/A Comparative Study of Non linear MPC and Differential Flatness based Control for Quadrotor Agile Flight.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/A Data-Driven Modelling Framework Integrating 9-Axis IMU-GPS Sensor Fusion for UAV Orientation and Position Estimation,.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Accurate_Tracking_of_Aggressive_Quadrotor_Trajectories_Using_Incremental_Nonlinear_Dynamic_Inversion_and_Differential_Flatness.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Active Wind Rejection Control for a Quadrotor UAV Against Unknown Winds,.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/An Intelligent Energy Management System for Enhanced Performance in Electric UAVs,.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Bridging Theory and Simulation Parametric Identification and Validation for a Multirotor UAV in PX4–Gazebo,.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Design and Implementation of a High-Precision Wind-Estimation UAV with Onboard Sensors.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Design of Attitude Control for Quadrotor UAV Based on Cascade Fuzzy PID.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Energy Consumption Optimisation for Unmanned Aerial Vehicle Based on Reinforcement Learning Framework.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Extended State Observer Based Robust Nonlinear PID Attitude.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Frequency-Dependent H∞ Control for Wind Disturbance Rejection of a Fully Actuated UAV,.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Hybrid Powerplant Design and Energy Management for UAVs Enhancing Autonomy and Reducing Operational Costs.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Identifying Aerodynamics of Delta-Wing Drones for Model-Based Navigation A Comparative Study,.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Nonlinear Complementary Filters on the Special Orthogonal Group.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Nonlinear System Identification of a UAV Model with Distributed Aerodynamics and Flexible Structure.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/PID-based attitude control of quadrotor using robust pole assignment.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Robust Attitude Control of Nonlinear UAV Dynamics with LFT Models and H∞ Performance.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Robust Control of UAV with Disturbances and Uncertainty Estimation.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/smeur-et-al-2016-adaptive-incremental-nonlinear-dynamic-inversion-for-attitude-control-of-micro-air-vehicles.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/A constrained reinforcement learning based approach for cooperative control of multi-UAV in dense obstacle environments.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/A Deep Reinforcement Learning Framework for UAV Navigation and Selection of Relay Paths,.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/A General Framework for Uncertainty Estimation in Deep Learning.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/A Safety Modulator Actor-Critic Method in Model-Free Safe Reinforcement Learning and Application in UAV Hovering,.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/A Weighted-Transfer Domain-Adaptation Network Applied to Unmanned Aerial Vehicle Fault Diagnosis,.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Aerial_Manipulation_using_Model_Predictive_Control_for_Opening_a_Hinged_Door.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/ANN-MPC An Adaptive Neural Network-Based Nonlinear Model Predictive Control Method for Robust Trajectory Tracking of Quadrotors,.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Champion Level Drone Racing Using Deep Reinforcement Learning.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Continuous Transfer Learning for UAV Communication-Aware Trajectory Design.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/CPC Complementary Progress Constraints for Time-Optimal Quadrotor Trajectories,.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Data Driven MPC for Quadrotors.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/DDQN-Based 3D Path Planning Algorithm for UAVs in Dynamic Dense Obstacle Environments.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Deep Drone Acrobatics.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Deep Drone Racing  from Simulation to Reality with Domain Randomization.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Deep Reinforcement Learning of UAV Tracking Control Under Wind Disturbances Environments,.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Deep_Reinforcement_Learning_Multi-UAV_Trajectory_Control_for_Target_Tracking.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Flying_through_a_narrow_gap_using_neural_network_an_end-to-end_planning_and_control_approach.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/GTrXL-SAC-Based Path Planning and Obstacle-Aware Control Decision-Making for UAV Autonomous Control,.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/NN-MPC An Adaptive Neural Network-Based Nonlinear Model Predictive Control Method for Robust Trajectory Tracking of Quadrotors.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/One Net to Rule Them All Domain Randomization in Quadcopter Racing Across Different Platforms.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/RAMP-Net A Robust Adaptive MPC for Quadrotors via Physics-Informed Neural Network,.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/RAMP-Net A Robust Adaptive MPC for Quadrotors via Physics-Informed Neural Network.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Reaching the Limit in Autonomous Racing.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Real-Time Neural MPC Deep Learning Model Predictive Control for Quadrotors and Agile Robotic Platforms.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Reinforcement Learning for UAV Attitude Control.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Signed Distance Fields A Natural Representation for Both Mapping and Planning.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/UAV Formation Flight Control Method Based on DQN.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/UAV Path Planning and Obstacle Avoidance Based on Reinforcement Learning in 3D Environments.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/A Mathematics-Oriented AI Iterative Prediction Framework Combining XGBoost and NARX Application to RUL and Availability of UAV BLDC Motors.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/A Survey of Unmanned Aerial Vehicle Flight Data Anomaly Detection.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/A Survey on AI-Based Detection Methods of GPS Spoofing Attacks on UAVs,.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/ALFA A Dataset for UAV Fault and Anomaly Detection.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Anomaly Detection for UAV Flight Data via Reconstruction-Prediction Co-Learning Attention Network.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/CTDNN-Spoof Compact Tiny Deep Learning Architecture for Detection and Multi-Label Classification of GPS Spoofing Attacks in Small UAVs.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Deep Learning-Assisted Unmanned Aerial Vehicle Flight Data Anomaly Detection A Review.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Fault Detection for UAVs With Spatial-Temporal Learning on Multivariate Flight Data,.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/From Propeller Damage Estimation and Adaptation to Fault Tolerant Control Enhancing Quadrotor Resilience.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Image-Based Intrusion Detection System for GPS Spoofing Cyberattacks in Unmanned Aerial Vehicles.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Intl J Robust   Nonlinear - 2023 - Wang - An adaptive sliding mode fault‐tolerant control of a quadrotor unmanned aerial.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Motor Fault Detection and Isolation for Multi-Rotor UAVs Based.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Multi-Source Data Fusion-Based Knowledge Transfer for Unmanned Aerial Vehicle Flight Data Anomaly Detection and Recovery.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Multi-Source Ensemble Transfer Learning-Based Unmanned Aerial Vehicle Flight Data Anomaly Detection with Limited Data From Simulation to Reality,.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Multivariate_Regression-Based_Fault_Detection_and_Recovery_of_UAV_Flight_Data.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Predictive Maintenance System to RUL Prediction of Li-Ion.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Propeller Fault Detection and Isolation for Multirotor Drones with Adaptation to Battery Voltage Drop.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Unmanned Aerial Vehicle Flight Data Anomaly Detection Based on Multirate-Aware LSTM.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Unmanned_Aerial_Vehicle_Flight_Data_Anomaly_Detection_and_Recovery_Prediction_Based_on_Spatio-Temporal_Correlation.md`
+- `Cluster 4/Agilicious Open-Source and Open-Hardware Agile Quadrotor for Vision-Based Flight,.md`
+- `Cluster 4/FalconGym A Photorealistic Simulation Framework for Zero-Shot Sim-to-Real Vision-Based Quadrotor Navigation.md`
+- `Cluster 4/Imperative MPC An End-to-End Self-Supervised Learning with.md`
+- `Cluster 4/Physics-Informed Machine Learning for UAV Control.md`
+- `Cluster 4/Physics-Informed Neural Networks for UAV System Estimation.md`
+- `Cluster 4/Real-is-Sim Bridging the Sim-to-Real Gap with a Dynamic Digital Twin.md`
+- `Cluster 4/Reinforcement Twinning for Hybrid Control of Flapping -Wing Drones.md`
+- `Cluster 4/Sim-to-Real Transfer in Reinforcement Learning for Maneuver Control of a Variable-Pitch MAV.md`
+- `Cluster 5/A Two-Stage Multi-UAV Task Allocation Approach Based on Graph Theory and a Learning-Inspired Immune Algorithm.md`
+- `Cluster 5/Communication-Free Collective Navigation for a Swarm of UAVs via LiDAR-Based Deep Reinforcement Learning.md`
+- `Cluster 5/Comparative Analysis of Centralized and Distributed Multi-UAV Task Allocation Algorithms A Unified Evaluation Framework,.md`
+- `Cluster 5/Connectivity preserving decentralized UAV swarm navigation in obstacle-laden environments without explicit communication.md`
+- `Cluster 5/Cooperative Path Planning for Autonomous UAV Swarms Using MASAC-CA Algorithm.md`
+- `Cluster 5/Cooperative Path Planning for Multi-UAVs with Time-Varying Communication and Energy Consumption Constraints.md`
+- `Cluster 5/Distributed Multi-Agent Deep Reinforcement Learning Based Navigation and Control of UAV Swarm for Wildfire Monitoring.md`
+- `Cluster 5/Integrated Communication and Control for Energy-Efficient UAV Swarms A Multi-Agent Reinforcement Learning Approach.md`
+- `Cluster 5/MC-Swarm Minimal Communication Multi Agent Trajectory Planning and Deadlock Resolution for Quadrotor Swarm,.md`
+- `Cluster 5/Multi-Agent Reinforcement Learning-Based Coordinated Dynamic Task Allocation for Heterogeneous UAVs,.md`
+- `Cluster 5/Multi-Attention Meets Pareto Optimization A Reinforcement Learning Method for Adaptive UAV Formation Control.md`
+- `Cluster 5/Multi-UAV Task Allocation Based on Grid-Based Particle Swarm and Genetic Hybrid Algorithm,.md`
+- `Cluster 5/Robust MADER Decentralized Multiagent Trajectory Planning Under Communication Delays.md`
+- `Cluster 7/AU AIR A Multi-Modal Unmanned Aerial Vehicle Dataset for Low Altitude Traffic Surveillance.md`
+- `Cluster 8/ABenchmarkComparisonofMonocularVisual-InertialOdometry AlgorithmsforFlyingRobots.md`
+- `Cluster 8/Data-dri v en m ulti variate regression-based anomaly detection and recovery of unmanned aerial vehicle f light data.md`
+- `Cluster 8/Deep Reinforcement Learning That Matters.md`
+- `Cluster 8/Dynamic Models Identification for Kinematics and Energy Consumption of Rotary-Wing UAVs During Different Flight States.md`
+- `Cluster 8/Learning High Speed Flight in the Wild.md`
+- `Cluster 8/NTU VIRAL  A Visual-Inertial-Ranging-LiDAR Dataset, From an Aerial Vehicle Viewpoint.md`
+- `Cluster 8/Safe Learning in Robotics From Learning Based Control to Safe Reinforcement Learning.md`
+- `Cluster 8/Statistical Comparisons of Classifiers over Multiple Data Sets.md`
+- `Cluster 8/UAV Enabled Data Collection for Internet of Things A Survey.md`
+- `Cluster 9/A_Review_on_UAV-Based_Applications_for_Precision_A (1).md`
+- `Cluster 9/Adaptive fuzzy control of a quadrotor using disturbance observer.md`
+- `Cluster 9/Are We Ready for Autonomous Drone Racing.md`
+- `Cluster 9/Attitude_Estimation_of_Quadrotor_UAV_based_on_QUKF.md`
+- `Cluster 9/CNN-LSTM_framework_to_automatically_detect_anomali.md`
+- `Cluster 9/Disturbance observer based actor-critic learning.md`
+- `Cluster 9/Disturbance observer based adaptive neural control of uncertain MIMO nonlinear systems.md`
+- `Cluster 9/Disturbance Observer-based Robust Control.md`
+- `Cluster 9/Extended Dynamics Observer for Linear Systems with.md`
+- `Cluster 9/Fault_diagnosis_of_drone_motors_driven_by_current_.md`
+- `Cluster 9/FGAI4H-H-025-A02.md`
+- `Cluster 9/High gain fractional disturbance observer control of.md`
+- `Cluster 9/Robust observer-based control designs for discrete.md`
+- `Cluster 9/Robustness of disturbance observer based servo systems.md`
+- `Cluster 9/s41597-023-02799-4.md`
+- `Cluster 9/s41597-025-04482-2.md`
+- `Cluster 9/s41597-026-06716-3.md`
+- `Cluster 9/The composite disturbance observer based stochastic.md`
+- `Cluster 9/UIT-ADrone_A_Novel_Drone_Dataset_for_Traffic_Anoma.md`
+- `Cursor 6/Consistent and Efficient MSCKF-Based LiDAR-Inertial Odometry with Inferred Cluster-to-Plane Constraints for UAVs,.md`
+- `Cursor 6/FAST-LIVO2 Fast, Direct LiDAR-Inertial-Visual Odometry.md`
+- `Cursor 6/GNSS-Denied Unmanned Aerial Vehicle Navigation Analyzing Computational Complexity, Sensor Fusion, and Localization Methodologies.md`
+- `Cursor 6/LGVINS LiDAR-GPS-Visual and Inertial System Based Multi-Sensor Fusion for Smooth and Reliable UAV State Estimation.md`
+- `Cursor 6/LVIO-GSMAP Robust LiDAR-Visual-Inertial UAV System With Gaussian Mapping,.md`
+- `Cursor 6/MUN-FRL A Visual-Inertial-LiDAR Dataset for Aerial Autonomous Navigation and Mapping.md`
+- `Cursor 6/OpenVINS  A Research Platform for Visual-Inertial Estimation.md`
+- `Cursor 6/Sensor Fusion for Autonomous Indoor UAV Navigation in Confined Spaces.md`
+- `DIOB/1-s2.0-S0016003225008725-main.md`
+- `DIOB/1-s2.0-S0016003226001110-main.md`
+- `DIOB/1-s2.0-S0019057826001011-main.md`
+- `DIOB/1-s2.0-S0019057826001023-main.md`
+- `DIOB/1-s2.0-S0952197626003519-main.md`
+- `DIOB/1-s2.0-S0957417425026697-main.md`
+- `DIOB/1-s2.0-S0957417425028611-main.md`
+- `DIOB/1-s2.0-S096706611830563X-main.md`
+- `DIOB/1-s2.0-S0967066124000145-main.md`
+- `DIOB/1-s2.0-S0967066124001503-main.md`
+- `DIOB/1-s2.0-S0967066125003776-main.md`
+- `DIOB/1-s2.0-S0967066125004861-main.md`
+- `DIOB/1-s2.0-S1270963825001130-main.md`
+- `DIOB/1-s2.0-S1270963825011484-main.md`
+- `DIOB/1-s2.0-S1270963826002889-main.md`
+- `DIOB/1-s2.0-S1574013726000456-main.md`
+- `DIOB/41598_2026_Article_38931.md`
+- `DIOB/A backstepping disturbance observer control for multirotor UAVs  theory and experiment.md`
+- `DIOB/a_multi_stage_optimized_adaptive_control_framework_for_quadcopter_trajectory_tracking_under_wind_disturbances_and_payload_variations.md`
+- `DIOB/actuators-13-00217-v2.md`
+- `DIOB/actuators-13-00529.md`
+- `DIOB/actuators-15-00128.md`
+- `DIOB/An_Attitude_Control_Method_for_AAV_Based_on_Time-Varying_Switching_Threshold_Event-Triggered_Mechanism_and_Linear_Extended_State_Observer.md`
+- `DIOB/computation-14-00051.md`
+- `DIOB/Disturbance observer-based control of UAVs with prescribed performance.md`
+- `DIOB/Disturbance_observer-based_attitude_control_for_a_quadrotor.md`
+- `DIOB/drones-07-00328-v2.md`
+- `DIOB/drones-09-00067-v2.md`
+- `DIOB/drones-10-00047-v2.md`
+- `DIOB/drones-10-00068-v2.md`
+- `DIOB/drones-10-00109-v4.md`
+- `DIOB/drones-10-00110-v2.md`
+- `DIOB/electronics-15-00408-v2.md`
+- `DIOB/event_triggered_cascade_active_disturbance_rejection_control_for_quadrotor_trajectory_tracking.md`
+- `DIOB/Fixed-time tracking control of quadrotor UAVs based on disturbance observer and sliding mode.md`
+- `DIOB/IJAM_56_3_09.md`
+- `DIOB/Improvement_of_Drone_Gimbal_System_Performance_Using_a_Parallel_Structure_of_Explicit_Model_Predictive_Control_and_Adaptive_Neuro-Fuzzy_Inference_System.md`
+- `DIOB/Intelligent Formation Control Using ORFBLS and Adaptive backstepp.md`
+- `DIOB/Learning-Augmented_Composite_anti-disturbance_Control_for_UAVs_in_Wind-Disturbed_Environments.md`
+- `DIOB/machines-14-00078-v2.md`
+- `DIOB/machines-14-00277.md`
+- `DIOB/On_Compensation_Function_Observer-Based_Active_Disturbance_Rejection_Control_for_MIMO_Uncertain_Systems_and_Its_Application_to_2-DOF_Helicopter_System.md`
+- `DIOB/processes-13-01470.md`
+- `DIOB/robust-formation-control-of-quadrotor-uavs-a-fully-actuated-control-approach.md`
+- `DIOB/Robust_Cascaded_PID_Disturbance_Observer-Based_Control_of_an_Unmanned_Quadrotor_Aerial_Vehicle.md`
+- `DIOB/robust_quadrotor_position_tracking_via_fuzzy_adaptive_with_outer_loop_sliding_mode_control.md`
+- `DIOB/s10846-025-02347-9.md`
+- `DIOB/s11431-025-3147-5.md`
+- `DIOB/s12555-025-0243-y.md`
+- `DIOB/s13272-025-00928-w.md`
+- `DIOB/s13369-025-10742-5.md`
+- `DIOB/s40430-025-06221-5.md`
+- `DIOB/s40435-025-01805-4.md`
+- `DIOB/s40435-026-02055-8.md`
+- `DIOB/s40815-025-02219-2.md`
+- `DIOB/s41598-025-23330-2.md`
+- `DIOB/s41598-025-25903-7.md`
+- `DIOB/s41598-025-26264-x.md`
+- `DIOB/s41598-026-37984-z_reference.md`
+- `DIOB/s41598-026-38820-0_reference.md`
+- `DIOB/s41598-026-38931-8.md`
+- `DIOB/s42401-025-00401-w.md`
+- `DIOB/s42835-025-02404-1.md`
+- `DIOB/sensors-22-05082-v2.md`
+- `DIOB/Thesis.md`
+- `DIOB/Tracking control and disturbance rejection of micro quadrotor via adaptive internal model.md`
+- `DIOB/zhou-et-al-2025-control-algorithms-for-quadrotor-uavs-under-wind-disturbance.md`
+- `IEEE/A_Practical_Perspective_on_the_Drone-With-a-Slung-Load_Problem.md`
+- `IEEE/Development_of_an_LQR-Based_Control_Algorithm_for_Quadcopter.md`
+- `IEEE/Enhanced_Quadrotor_Drone_Control_Integration_of_Backstepping_Method_with_Butterfly_Optimization_Algorithm.md`
+- `IEEE/Enhancing_Robustness_Delay-Based_Control_and_Observer_Strategies_for_Tilt-Rotor_Quadrotors.md`
+- `IEEE/Estimation_of_Unmodeled_Dynamics_Nonlinear_MPC_and_Adaptive_Control_Law_With_Momentum_Observer_Dynamic.md`
+- `IEEE/Fault-tolerant_Control_of_Variable_Load_Drone_Based_on_HOFA_System_Approach.md`
+- `IEEE/Full_State_Quaternion-Based_Observer_Control_for_Multirotor_Aerial_Grasping.md`
+- `IEEE/Fully_Distributed_Low-Complexity_UAV_Formation_Control_With_Fixed-Time_Full-State_Error_Performance.md`
+- `IEEE/Oscillation_Suppression-Enhanced_Cooperative_Control_via_Refined_Cooperative_Disturbance_Estimation_for_Aerial_Co-Transportation_System.md`
+- `IEEE/Prescribed-Time_Robust_Synchronization_of_Networked_Heterogeneous_Euler-Lagrange_Systems.md`
+- `IEEE/Safety-Critical_Disturbance_Rejection_Control_of_Nonlinear_Systems_With_Unmatched_Disturbances.md`
+- `IEEE/Trajectory_Tracking_Control_of_Quadrotor_Drones_Based_on_Disturbance_Observers.md`
+
+## All Generated Files
+- `All_Articles_Merged_literature_summary.md`
+- `All_Articles_Merged_Light_literature_summary.md`
+- `All_Merged_PDFs_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/A Comparative Study of Non linear MPC and Differential Flatness based Control for Quadrotor Agile Flight_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/A Data-Driven Modelling Framework Integrating 9-Axis IMU-GPS Sensor Fusion for UAV Orientation and Position Estimation,_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Accurate_Tracking_of_Aggressive_Quadrotor_Trajectories_Using_Incremental_Nonlinear_Dynamic_Inversion_and_Differential_Flatness_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Active Wind Rejection Control for a Quadrotor UAV Against Unknown Winds,_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/An Intelligent Energy Management System for Enhanced Performance in Electric UAVs,_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Bridging Theory and Simulation Parametric Identification and Validation for a Multirotor UAV in PX4–Gazebo,_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Design and Implementation of a High-Precision Wind-Estimation UAV with Onboard Sensors_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Design of Attitude Control for Quadrotor UAV Based on Cascade Fuzzy PID_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Energy Consumption Optimisation for Unmanned Aerial Vehicle Based on Reinforcement Learning Framework_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Extended State Observer Based Robust Nonlinear PID Attitude_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Frequency-Dependent H∞ Control for Wind Disturbance Rejection of a Fully Actuated UAV,_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Hybrid Powerplant Design and Energy Management for UAVs Enhancing Autonomy and Reducing Operational Costs_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Identifying Aerodynamics of Delta-Wing Drones for Model-Based Navigation A Comparative Study,_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Nonlinear Complementary Filters on the Special Orthogonal Group_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Nonlinear System Identification of a UAV Model with Distributed Aerodynamics and Flexible Structure_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/PID-based attitude control of quadrotor using robust pole assignment_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Robust Attitude Control of Nonlinear UAV Dynamics with LFT Models and H∞ Performance_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/Robust Control of UAV with Disturbances and Uncertainty Estimation_literature_summary.md`
+- `Cluster 1 — UAV Dynamics, Flight Mechanics, and Control/smeur-et-al-2016-adaptive-incremental-nonlinear-dynamic-inversion-for-attitude-control-of-micro-air-vehicles_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/A constrained reinforcement learning based approach for cooperative control of multi-UAV in dense obstacle environments_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/A Deep Reinforcement Learning Framework for UAV Navigation and Selection of Relay Paths,_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/A General Framework for Uncertainty Estimation in Deep Learning_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/A Safety Modulator Actor-Critic Method in Model-Free Safe Reinforcement Learning and Application in UAV Hovering,_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/A Weighted-Transfer Domain-Adaptation Network Applied to Unmanned Aerial Vehicle Fault Diagnosis,_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Aerial_Manipulation_using_Model_Predictive_Control_for_Opening_a_Hinged_Door_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/ANN-MPC An Adaptive Neural Network-Based Nonlinear Model Predictive Control Method for Robust Trajectory Tracking of Quadrotors,_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Champion Level Drone Racing Using Deep Reinforcement Learning_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Continuous Transfer Learning for UAV Communication-Aware Trajectory Design_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/CPC Complementary Progress Constraints for Time-Optimal Quadrotor Trajectories,_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Data Driven MPC for Quadrotors_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/DDQN-Based 3D Path Planning Algorithm for UAVs in Dynamic Dense Obstacle Environments_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Deep Drone Acrobatics_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Deep Drone Racing  from Simulation to Reality with Domain Randomization_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Deep Reinforcement Learning of UAV Tracking Control Under Wind Disturbances Environments,_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Deep_Reinforcement_Learning_Multi-UAV_Trajectory_Control_for_Target_Tracking_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Flying_through_a_narrow_gap_using_neural_network_an_end-to-end_planning_and_control_approach_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/GTrXL-SAC-Based Path Planning and Obstacle-Aware Control Decision-Making for UAV Autonomous Control,_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/NN-MPC An Adaptive Neural Network-Based Nonlinear Model Predictive Control Method for Robust Trajectory Tracking of Quadrotors_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/One Net to Rule Them All Domain Randomization in Quadcopter Racing Across Different Platforms_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/RAMP-Net A Robust Adaptive MPC for Quadrotors via Physics-Informed Neural Network,_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/RAMP-Net A Robust Adaptive MPC for Quadrotors via Physics-Informed Neural Network_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Reaching the Limit in Autonomous Racing_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Real-Time Neural MPC Deep Learning Model Predictive Control for Quadrotors and Agile Robotic Platforms_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Reinforcement Learning for UAV Attitude Control_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/Signed Distance Fields A Natural Representation for Both Mapping and Planning_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/UAV Formation Flight Control Method Based on DQN_literature_summary.md`
+- `Cluster 2 — AI and Machine Learning for UAV Control/UAV Path Planning and Obstacle Avoidance Based on Reinforcement Learning in 3D Environments_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/A Mathematics-Oriented AI Iterative Prediction Framework Combining XGBoost and NARX Application to RUL and Availability of UAV BLDC Motors_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/A Survey of Unmanned Aerial Vehicle Flight Data Anomaly Detection_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/A Survey on AI-Based Detection Methods of GPS Spoofing Attacks on UAVs,_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/ALFA A Dataset for UAV Fault and Anomaly Detection_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Anomaly Detection for UAV Flight Data via Reconstruction-Prediction Co-Learning Attention Network_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/CTDNN-Spoof Compact Tiny Deep Learning Architecture for Detection and Multi-Label Classification of GPS Spoofing Attacks in Small UAVs_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Deep Learning-Assisted Unmanned Aerial Vehicle Flight Data Anomaly Detection A Review_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Fault Detection for UAVs With Spatial-Temporal Learning on Multivariate Flight Data,_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/From Propeller Damage Estimation and Adaptation to Fault Tolerant Control Enhancing Quadrotor Resilience_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Image-Based Intrusion Detection System for GPS Spoofing Cyberattacks in Unmanned Aerial Vehicles_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Intl J Robust   Nonlinear - 2023 - Wang - An adaptive sliding mode fault‐tolerant control of a quadrotor unmanned aerial_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Motor Fault Detection and Isolation for Multi-Rotor UAVs Based_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Multi-Source Data Fusion-Based Knowledge Transfer for Unmanned Aerial Vehicle Flight Data Anomaly Detection and Recovery_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Multi-Source Ensemble Transfer Learning-Based Unmanned Aerial Vehicle Flight Data Anomaly Detection with Limited Data From Simulation to Reality,_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Multivariate_Regression-Based_Fault_Detection_and_Recovery_of_UAV_Flight_Data_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Predictive Maintenance System to RUL Prediction of Li-Ion_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Propeller Fault Detection and Isolation for Multirotor Drones with Adaptation to Battery Voltage Drop_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Unmanned Aerial Vehicle Flight Data Anomaly Detection Based on Multirate-Aware LSTM_literature_summary.md`
+- `Cluster 3 — Fault Detection, Isolation, and Diagnosis (FDI)/Unmanned_Aerial_Vehicle_Flight_Data_Anomaly_Detection_and_Recovery_Prediction_Based_on_Spatio-Temporal_Correlation_literature_summary.md`
+- `Cluster 4/Agilicious Open-Source and Open-Hardware Agile Quadrotor for Vision-Based Flight,_literature_summary.md`
+- `Cluster 4/FalconGym A Photorealistic Simulation Framework for Zero-Shot Sim-to-Real Vision-Based Quadrotor Navigation_literature_summary.md`
+- `Cluster 4/Imperative MPC An End-to-End Self-Supervised Learning with_literature_summary.md`
+- `Cluster 4/Physics-Informed Machine Learning for UAV Control_literature_summary.md`
+- `Cluster 4/Physics-Informed Neural Networks for UAV System Estimation_literature_summary.md`
+- `Cluster 4/Real-is-Sim Bridging the Sim-to-Real Gap with a Dynamic Digital Twin_literature_summary.md`
+- `Cluster 4/Reinforcement Twinning for Hybrid Control of Flapping -Wing Drones_literature_summary.md`
+- `Cluster 4/Sim-to-Real Transfer in Reinforcement Learning for Maneuver Control of a Variable-Pitch MAV_literature_summary.md`
+- `Cluster 5/A Two-Stage Multi-UAV Task Allocation Approach Based on Graph Theory and a Learning-Inspired Immune Algorithm_literature_summary.md`
+- `Cluster 5/Communication-Free Collective Navigation for a Swarm of UAVs via LiDAR-Based Deep Reinforcement Learning_literature_summary.md`
+- `Cluster 5/Comparative Analysis of Centralized and Distributed Multi-UAV Task Allocation Algorithms A Unified Evaluation Framework,_literature_summary.md`
+- `Cluster 5/Connectivity preserving decentralized UAV swarm navigation in obstacle-laden environments without explicit communication_literature_summary.md`
+- `Cluster 5/Cooperative Path Planning for Autonomous UAV Swarms Using MASAC-CA Algorithm_literature_summary.md`
+- `Cluster 5/Cooperative Path Planning for Multi-UAVs with Time-Varying Communication and Energy Consumption Constraints_literature_summary.md`
+- `Cluster 5/Distributed Multi-Agent Deep Reinforcement Learning Based Navigation and Control of UAV Swarm for Wildfire Monitoring_literature_summary.md`
+- `Cluster 5/Integrated Communication and Control for Energy-Efficient UAV Swarms A Multi-Agent Reinforcement Learning Approach_literature_summary.md`
+- `Cluster 5/MC-Swarm Minimal Communication Multi Agent Trajectory Planning and Deadlock Resolution for Quadrotor Swarm,_literature_summary.md`
+- `Cluster 5/Multi-Agent Reinforcement Learning-Based Coordinated Dynamic Task Allocation for Heterogeneous UAVs,_literature_summary.md`
+- `Cluster 5/Multi-Attention Meets Pareto Optimization A Reinforcement Learning Method for Adaptive UAV Formation Control_literature_summary.md`
+- `Cluster 5/Multi-UAV Task Allocation Based on Grid-Based Particle Swarm and Genetic Hybrid Algorithm,_literature_summary.md`
+- `Cluster 5/Robust MADER Decentralized Multiagent Trajectory Planning Under Communication Delays_literature_summary.md`
+- `Cluster 7/AU AIR A Multi-Modal Unmanned Aerial Vehicle Dataset for Low Altitude Traffic Surveillance_literature_summary.md`
+- `Cluster 8/ABenchmarkComparisonofMonocularVisual-InertialOdometry AlgorithmsforFlyingRobots_literature_summary.md`
+- `Cluster 8/Data-dri v en m ulti variate regression-based anomaly detection and recovery of unmanned aerial vehicle f light data_literature_summary.md`
+- `Cluster 8/Deep Reinforcement Learning That Matters_literature_summary.md`
+- `Cluster 8/Dynamic Models Identification for Kinematics and Energy Consumption of Rotary-Wing UAVs During Different Flight States_literature_summary.md`
+- `Cluster 8/Learning High Speed Flight in the Wild_literature_summary.md`
+- `Cluster 8/NTU VIRAL  A Visual-Inertial-Ranging-LiDAR Dataset, From an Aerial Vehicle Viewpoint_literature_summary.md`
+- `Cluster 8/Safe Learning in Robotics From Learning Based Control to Safe Reinforcement Learning_literature_summary.md`
+- `Cluster 8/Statistical Comparisons of Classifiers over Multiple Data Sets_literature_summary.md`
+- `Cluster 8/UAV Enabled Data Collection for Internet of Things A Survey_literature_summary.md`
+- `Cluster 9/A_Review_on_UAV-Based_Applications_for_Precision_A (1)_literature_summary.md`
+- `Cluster 9/Adaptive fuzzy control of a quadrotor using disturbance observer_literature_summary.md`
+- `Cluster 9/Are We Ready for Autonomous Drone Racing_literature_summary.md`
+- `Cluster 9/Attitude_Estimation_of_Quadrotor_UAV_based_on_QUKF_literature_summary.md`
+- `Cluster 9/CNN-LSTM_framework_to_automatically_detect_anomali_literature_summary.md`
+- `Cluster 9/Disturbance observer based actor-critic learning_literature_summary.md`
+- `Cluster 9/Disturbance observer based adaptive neural control of uncertain MIMO nonlinear systems_literature_summary.md`
+- `Cluster 9/Disturbance Observer-based Robust Control_literature_summary.md`
+- `Cluster 9/Extended Dynamics Observer for Linear Systems with_literature_summary.md`
+- `Cluster 9/Fault_diagnosis_of_drone_motors_driven_by_current__literature_summary.md`
+- `Cluster 9/FGAI4H-H-025-A02_literature_summary.md`
+- `Cluster 9/High gain fractional disturbance observer control of_literature_summary.md`
+- `Cluster 9/Robust observer-based control designs for discrete_literature_summary.md`
+- `Cluster 9/Robustness of disturbance observer based servo systems_literature_summary.md`
+- `Cluster 9/s41597-023-02799-4_literature_summary.md`
+- `Cluster 9/s41597-025-04482-2_literature_summary.md`
+- `Cluster 9/s41597-026-06716-3_literature_summary.md`
+- `Cluster 9/The composite disturbance observer based stochastic_literature_summary.md`
+- `Cluster 9/UIT-ADrone_A_Novel_Drone_Dataset_for_Traffic_Anoma_literature_summary.md`
+- `Cursor 6/Consistent and Efficient MSCKF-Based LiDAR-Inertial Odometry with Inferred Cluster-to-Plane Constraints for UAVs,_literature_summary.md`
+- `Cursor 6/FAST-LIVO2 Fast, Direct LiDAR-Inertial-Visual Odometry_literature_summary.md`
+- `Cursor 6/GNSS-Denied Unmanned Aerial Vehicle Navigation Analyzing Computational Complexity, Sensor Fusion, and Localization Methodologies_literature_summary.md`
+- `Cursor 6/LGVINS LiDAR-GPS-Visual and Inertial System Based Multi-Sensor Fusion for Smooth and Reliable UAV State Estimation_literature_summary.md`
+- `Cursor 6/LVIO-GSMAP Robust LiDAR-Visual-Inertial UAV System With Gaussian Mapping,_literature_summary.md`
+- `Cursor 6/MUN-FRL A Visual-Inertial-LiDAR Dataset for Aerial Autonomous Navigation and Mapping_literature_summary.md`
+- `Cursor 6/OpenVINS  A Research Platform for Visual-Inertial Estimation_literature_summary.md`
+- `Cursor 6/Sensor Fusion for Autonomous Indoor UAV Navigation in Confined Spaces_literature_summary.md`
+- `DIOB/1-s2.0-S0016003225008725-main_literature_summary.md`
+- `DIOB/1-s2.0-S0016003226001110-main_literature_summary.md`
+- `DIOB/1-s2.0-S0019057826001011-main_literature_summary.md`
+- `DIOB/1-s2.0-S0019057826001023-main_literature_summary.md`
+- `DIOB/1-s2.0-S0952197626003519-main_literature_summary.md`
+- `DIOB/1-s2.0-S0957417425026697-main_literature_summary.md`
+- `DIOB/1-s2.0-S0957417425028611-main_literature_summary.md`
+- `DIOB/1-s2.0-S096706611830563X-main_literature_summary.md`
+- `DIOB/1-s2.0-S0967066124000145-main_literature_summary.md`
+- `DIOB/1-s2.0-S0967066124001503-main_literature_summary.md`
+- `DIOB/1-s2.0-S0967066125003776-main_literature_summary.md`
+- `DIOB/1-s2.0-S0967066125004861-main_literature_summary.md`
+- `DIOB/1-s2.0-S1270963825001130-main_literature_summary.md`
+- `DIOB/1-s2.0-S1270963825011484-main_literature_summary.md`
+- `DIOB/1-s2.0-S1270963826002889-main_literature_summary.md`
+- `DIOB/1-s2.0-S1574013726000456-main_literature_summary.md`
+- `DIOB/41598_2026_Article_38931_literature_summary.md`
+- `DIOB/A backstepping disturbance observer control for multirotor UAVs  theory and experiment_literature_summary.md`
+- `DIOB/a_multi_stage_optimized_adaptive_control_framework_for_quadcopter_trajectory_tracking_under_wind_disturbances_and_payload_variations_literature_summary.md`
+- `DIOB/actuators-13-00217-v2_literature_summary.md`
+- `DIOB/actuators-13-00529_literature_summary.md`
+- `DIOB/actuators-15-00128_literature_summary.md`
+- `DIOB/An_Attitude_Control_Method_for_AAV_Based_on_Time-Varying_Switching_Threshold_Event-Triggered_Mechanism_and_Linear_Extended_State_Observer_literature_summary.md`
+- `DIOB/computation-14-00051_literature_summary.md`
+- `DIOB/Disturbance observer-based control of UAVs with prescribed performance_literature_summary.md`
+- `DIOB/Disturbance_observer-based_attitude_control_for_a_quadrotor_literature_summary.md`
+- `DIOB/drones-07-00328-v2_literature_summary.md`
+- `DIOB/drones-09-00067-v2_literature_summary.md`
+- `DIOB/drones-10-00047-v2_literature_summary.md`
+- `DIOB/drones-10-00068-v2_literature_summary.md`
+- `DIOB/drones-10-00109-v4_literature_summary.md`
+- `DIOB/drones-10-00110-v2_literature_summary.md`
+- `DIOB/electronics-15-00408-v2_literature_summary.md`
+- `DIOB/event_triggered_cascade_active_disturbance_rejection_control_for_quadrotor_trajectory_tracking_literature_summary.md`
+- `DIOB/Fixed-time tracking control of quadrotor UAVs based on disturbance observer and sliding mode_literature_summary.md`
+- `DIOB/IJAM_56_3_09_literature_summary.md`
+- `DIOB/Improvement_of_Drone_Gimbal_System_Performance_Using_a_Parallel_Structure_of_Explicit_Model_Predictive_Control_and_Adaptive_Neuro-Fuzzy_Inference_System_literature_summary.md`
+- `DIOB/Intelligent Formation Control Using ORFBLS and Adaptive backstepp_literature_summary.md`
+- `DIOB/Learning-Augmented_Composite_anti-disturbance_Control_for_UAVs_in_Wind-Disturbed_Environments_literature_summary.md`
+- `DIOB/machines-14-00078-v2_literature_summary.md`
+- `DIOB/machines-14-00277_literature_summary.md`
+- `DIOB/On_Compensation_Function_Observer-Based_Active_Disturbance_Rejection_Control_for_MIMO_Uncertain_Systems_and_Its_Application_to_2-DOF_Helicopter_System_literature_summary.md`
+- `DIOB/processes-13-01470_literature_summary.md`
+- `DIOB/robust-formation-control-of-quadrotor-uavs-a-fully-actuated-control-approach_literature_summary.md`
+- `DIOB/Robust_Cascaded_PID_Disturbance_Observer-Based_Control_of_an_Unmanned_Quadrotor_Aerial_Vehicle_literature_summary.md`
+- `DIOB/robust_quadrotor_position_tracking_via_fuzzy_adaptive_with_outer_loop_sliding_mode_control_literature_summary.md`
+- `DIOB/s10846-025-02347-9_literature_summary.md`
+- `DIOB/s11431-025-3147-5_literature_summary.md`
+- `DIOB/s12555-025-0243-y_literature_summary.md`
+- `DIOB/s13272-025-00928-w_literature_summary.md`
+- `DIOB/s13369-025-10742-5_literature_summary.md`
+- `DIOB/s40430-025-06221-5_literature_summary.md`
+- `DIOB/s40435-025-01805-4_literature_summary.md`
+- `DIOB/s40435-026-02055-8_literature_summary.md`
+- `DIOB/s40815-025-02219-2_literature_summary.md`
+- `DIOB/s41598-025-23330-2_literature_summary.md`
+- `DIOB/s41598-025-25903-7_literature_summary.md`
+- `DIOB/s41598-025-26264-x_literature_summary.md`
+- `DIOB/s41598-026-37984-z_reference_literature_summary.md`
+- `DIOB/s41598-026-38820-0_reference_literature_summary.md`
+- `DIOB/s41598-026-38931-8_literature_summary.md`
+- `DIOB/s42401-025-00401-w_literature_summary.md`
+- `DIOB/s42835-025-02404-1_literature_summary.md`
+- `DIOB/sensors-22-05082-v2_literature_summary.md`
+- `DIOB/Thesis_literature_summary.md`
+- `DIOB/Tracking control and disturbance rejection of micro quadrotor via adaptive internal model_literature_summary.md`
+- `DIOB/zhou-et-al-2025-control-algorithms-for-quadrotor-uavs-under-wind-disturbance_literature_summary.md`
+- `IEEE/A_Practical_Perspective_on_the_Drone-With-a-Slung-Load_Problem_literature_summary.md`
+- `IEEE/Development_of_an_LQR-Based_Control_Algorithm_for_Quadcopter_literature_summary.md`
+- `IEEE/Enhanced_Quadrotor_Drone_Control_Integration_of_Backstepping_Method_with_Butterfly_Optimization_Algorithm_literature_summary.md`
+- `IEEE/Enhancing_Robustness_Delay-Based_Control_and_Observer_Strategies_for_Tilt-Rotor_Quadrotors_literature_summary.md`
+- `IEEE/Estimation_of_Unmodeled_Dynamics_Nonlinear_MPC_and_Adaptive_Control_Law_With_Momentum_Observer_Dynamic_literature_summary.md`
+- `IEEE/Fault-tolerant_Control_of_Variable_Load_Drone_Based_on_HOFA_System_Approach_literature_summary.md`
+- `IEEE/Full_State_Quaternion-Based_Observer_Control_for_Multirotor_Aerial_Grasping_literature_summary.md`
+- `IEEE/Fully_Distributed_Low-Complexity_UAV_Formation_Control_With_Fixed-Time_Full-State_Error_Performance_literature_summary.md`
+- `IEEE/Oscillation_Suppression-Enhanced_Cooperative_Control_via_Refined_Cooperative_Disturbance_Estimation_for_Aerial_Co-Transportation_System_literature_summary.md`
+- `IEEE/Prescribed-Time_Robust_Synchronization_of_Networked_Heterogeneous_Euler-Lagrange_Systems_literature_summary.md`
+- `IEEE/Safety-Critical_Disturbance_Rejection_Control_of_Nonlinear_Systems_With_Unmatched_Disturbances_literature_summary.md`
+- `IEEE/Trajectory_Tracking_Control_of_Quadrotor_Drones_Based_on_Disturbance_Observers_literature_summary.md`
+- `combined_literature_review.md`
+
+## Unclear Extraction Cases
+- `DIOB/Tracking control and disturbance rejection of micro quadrotor via adaptive internal model.md`
